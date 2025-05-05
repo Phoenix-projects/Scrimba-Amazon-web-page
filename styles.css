@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+    
+}
+
+.col {
+    display:flex;
+    
+   
+    
+}
+
+.col1 {
+    margin-top: 30px;
+
+}
+.col2 {
+    padding-left: 20px;
+    
+
+}
+
+.sec-img {
+    width: 120px;
+}
+
+breadcrumb {
+   color: #565959;
+   margin-top: 60px;
+}
